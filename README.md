@@ -7,4 +7,5 @@ These files contain default policies that apply to all courses at Make School.
 - [Diversity-Statement](Diversity-Statement.md)
 - [Evaluation-Methods](Evaluation-Methods.md)
 - [Evaluations-Title-X-Disclaimer](Evaluations-Title-X-Disclaimer.md)
+- [Program-Learning-Outcomes](Program-Learning-Outcomes.md)
 
