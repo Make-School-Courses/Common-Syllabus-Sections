@@ -1,4 +1,4 @@
-# Class Boilerplate
+# Make School Product college standard policies
 
 These files contain default policies that apply to all courses at Make School. 
 
