@@ -6,4 +6,5 @@ These files contain default policies that apply to all courses at Make School.
 - [Accommodation-Policy](Accommodation-Policy.md)
 - [Diversity-Statement](Diversity-Statement.md)
 - [Evaluation-Methods](Evaluation-Methods.md)
+- [Evaluations-Title-X-Disclaimer](Evaluations-Title-X-Disclaimer.md)
 
