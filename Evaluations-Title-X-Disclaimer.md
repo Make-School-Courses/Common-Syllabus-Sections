@@ -1,4 +1,4 @@
-# Evaluations-Title-X-Disclaimer
+# Evaluations Title IX Disclaimer
 
 ## Course Evaluations
 
